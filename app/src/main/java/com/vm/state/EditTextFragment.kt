@@ -44,7 +44,6 @@ class EditTextFragment : Fragment() {
                 .addToBackStack(null)
                 .commit()
         }
-
     }
 
     override fun onStop() {
